@@ -3,8 +3,7 @@
 ###
 
 <p align="left">Meu nome é Felipe Gabriel e eu estudo no SENAI Nami Jafet no curso de Desenvolvimento de Sistemas!</p>
-
-###
+Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 
 <h2 align="left">Sobre mim:</h2>
 
