@@ -11,8 +11,9 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
-  <li>Tkinter</li> 
   <li>Node-js</li>
+  <li>XAMPP</li>
+  <li>fullCalendar (biblioteca js)</li>
   <br>
 <p>🎯 Objetivos: Me tornar um desenvolvedor full-stack autônomo </p>
 
