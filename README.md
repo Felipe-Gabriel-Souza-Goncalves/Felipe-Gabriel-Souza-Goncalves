@@ -13,7 +13,8 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 <p>📚 No momento estou estudando:</p>
   <li>Node-js</li>
   <li>XAMPP</li>
-  <li>fullCalendar (biblioteca js)</li>
+  <li>socket.io (Node)</li>
+  <li>express (Node)</li>
   <br>
 <p>🎯 Objetivos: Me tornar um desenvolvedor full-stack autônomo </p>
 
