@@ -1,4 +1,4 @@
-<h1 align="left">Hello World Devs!!</h1>
+<h1 align="left">Hello World!</h1>
 
 ###
 
@@ -11,8 +11,8 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
-  <li>Node-js</li>
-  <li>XAMPP</li>
+  <li>Flutter</li>
+  <li>Python</li>
   <li>socket.io (Node)</li>
   <li>express (Node)</li>
   <br>
@@ -20,19 +20,42 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 
 ###
 
-<h2 align="left">Principais linguagens que utilizo:</h2>
+<h2 align="left">Principais linguagens e tecnologias que utilizo:</h2>
 
 ###
 
+<h2 align="left">Front-End:</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
 </div>
+
+###
+
+<h2 align="left">Back-End:</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+<h2 align="left">Outros:</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
 
 ###
 
@@ -42,7 +65,6 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Gabriel-Souza-Goncalves&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
 
-###
 <!--
 **Felipe-Gabriel-Souza-Goncalves/Felipe-Gabriel-Souza-Goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
