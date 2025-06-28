@@ -11,9 +11,9 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
-  <li>Flutter</li>
-  <li>Python</li>
-  <li>socket.io (Node)</li>
+  <li>React</li>
+  <li>Git</li>
+  <li>nodemailer (Node)</li>
   <li>express (Node)</li>
   <br>
 <p>🎯 Objetivos: Me tornar um desenvolvedor full-stack autônomo </p>
