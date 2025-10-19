@@ -11,12 +11,13 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
-  <li>React</li>
+  <li>React Native</li>
+  <li>Expo</li>
   <li>Git</li>
-  <li>nodemailer (Node)</li>
-  <li>express (Node)</li>
+  <li>MongoDB</li>
   <br>
-<p>🎯 Objetivos: Me tornar um desenvolvedor full-stack autônomo </p>
+<p>🎯 Objetivos: Me tornar um desenvolvedor web full-stack autônomo </p>
+<p>🧩 Passatempos: Criar jogos web / explorar conceitos de Assembly e otimização de código </p>
 
 ###
 
@@ -53,6 +54,7 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> &nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
@@ -68,14 +70,4 @@ Conta educacional: <a href="https://github.com/FelipeGSG">FelipeGSG</a>
 <!--
 **Felipe-Gabriel-Souza-Goncalves/Felipe-Gabriel-Souza-Goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
