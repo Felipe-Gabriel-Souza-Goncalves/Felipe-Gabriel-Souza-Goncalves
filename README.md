@@ -12,13 +12,13 @@ Linkedin:  <a href="https://www.linkedin.com/in/felipe-gabriel-souza-gonçalves-
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
-  <li>React Native</li>
-  <li>Expo</li>
-  <li>Git</li>
-  <li>MongoDB</li>
+  <li>IndexedDB</li>
+  <li>Componentização</li>
+  <li>GraphQL</li>
+  <li>SQLite</li>
   <br>
 <p>🎯 Objetivos: Me tornar um desenvolvedor web full-stack autônomo </p>
-<p>🧩 Passatempos: Criar jogos web / explorar conceitos de Assembly e otimização de código </p>
+<p>🧩 Passatempos: Criar jogos web / explorar conceitos de low-code e otimização de código </p>
 
 ###
 
@@ -63,7 +63,7 @@ Linkedin:  <a href="https://www.linkedin.com/in/felipe-gabriel-souza-gonçalves-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipe-Gabriel-Souza-Goncalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
   <img src="https://streak-stats.demolab.com?user=Felipe-Gabriel-Souza-Goncalves&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Gabriel-Souza-Goncalves&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
