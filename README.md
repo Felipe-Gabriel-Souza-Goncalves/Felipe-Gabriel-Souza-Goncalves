@@ -12,10 +12,9 @@ Linkedin:  <a href="https://www.linkedin.com/in/felipe-gabriel-souza-gonçalves-
 
 <p align="left">✨ Programador desde 01/2024</p>
 <p>📚 No momento estou estudando:</p>
-  <li>IndexedDB</li>
-  <li>Componentização</li>
-  <li>GraphQL</li>
-  <li>SQLite</li>
+  <li>Custom Tkinter</li>
+  <li>Game loops</li>
+  <li>Otimizações de manipulação DOM</li>
   <br>
 <p>🎯 Objetivos: Me tornar um desenvolvedor web full-stack autônomo </p>
 <p>🧩 Passatempos: Criar jogos web / explorar conceitos de low-code e otimização de código </p>
